@@ -1,7 +1,18 @@
-## Hello world!!!
+<h2> Bem vindxs ao meu GitHub! Meu nome é <strong>Rafaela França</strong>. 
 
-### Me chamo Rafaela, tenho 28 anos e sou pernambucana.
+☕ 🖋️ &nbsp; <h4>Sou desenvolvedora de software, amo café e estudar finanças.<h4>
+      
+  
+<h3> 💻 Sobre minha trajetória acadêmica e profissional:</h3> 
+      
+- 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
+- 🎓 &nbsp; <strong>Bacharel em Administração</strong>
+- :computer: &nbsp; <strong>Graduanda em Análise e Desenvolvimento de Sistemas</strong>
+- 🌐 &nbsp; <strong>Stack Front-End | Javascript e React(Desenvolvimento Web)</strong>
+- 💻 &nbsp; <strong>Analista de Sistemas Service Now</strong>
 
-### Sou administradora e estudande de programação front-end.
-
-### Curto ==> Inovação, números, cálculos e códigos.
+  </br>
+<div align="center">
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=raffranca"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tereza25&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+</a>
+</div>
