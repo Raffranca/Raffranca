@@ -1,8 +1,8 @@
-<h2> Olá, galera! Meu nome é <strong>Rafaela França</strong>.<h2>
+<h2> Olá, galera! Meu nome é <strong>Rafaela França</strong>. </h2>
+
+<h3>Sejam bem vindas e bem vindos ao meu perfil. Sou desenvolvedora de software, amo café e estudar finanças. ☕🖋️ &nbsp;</h3>
+          
      
-<h3>Sejam bem vindas e bem vindos ao meu perfil. Sou desenvolvedora de software, amo café e estudar finanças. ☕🖋️ &nbsp;<h3>
-     
-        
 <h4> 💻 Sobre minha trajetória acadêmica e profissional:</h4> 
       
 - 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
