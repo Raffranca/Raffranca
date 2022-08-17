@@ -1,6 +1,6 @@
 <h2> Bem vindxs ao meu GitHub! Meu nome é <strong>Rafaela França</strong>. 
 
-☕ 🖋️ &nbsp; <h4>Sou desenvolvedora de software, amo café e estudar finanças.<h4>
+<h4>Sou desenvolvedora de software, amo café e estudar finanças. ☕🖋️ &nbsp;<h4>
       
   
 <h3> 💻 Sobre minha trajetória acadêmica e profissional:</h3> 
