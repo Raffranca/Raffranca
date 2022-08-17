@@ -1,4 +1,5 @@
-<h2> Bem vindxs ao meu GitHub! Meu nome é <strong>Rafaela França</strong>. 
+<h2> Olá, galera! Meu nome é <strong>Rafaela França</strong>. 
+     Sejam bem vindas e bem vindos ao meu perfil. <h2>
 
 <h4>Sou desenvolvedora de software, amo café e estudar finanças. ☕🖋️ &nbsp;<h4>
       
