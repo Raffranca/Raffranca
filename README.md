@@ -5,7 +5,7 @@
 
 
      
-<h4> 💻 Sobre minha trajetória acadêmica e profissional:</h4> 
+<h4> 💻 Um pouco da minha trajetória acadêmica e profissional:</h4> 
       
 - 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
 - 🎓 &nbsp; <strong>Bacharel em Administração</strong>
